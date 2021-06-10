@@ -31,14 +31,14 @@ python -m gui
 - [x] Push to my github for first time
 - [x] Add anime description
 - [x] Use GUI instead Terminal with image
-- [ ] Pagination
+- [x] Pagination
 - [x] Dynamic page
 
 # Anime list
 - [x] Anitoki
 - [x] Samehadaku
-- [ ] Nekopoi
-- [ ] More will be added or open issues
+- [x] Nekopoi
+- [x] More will be added or open issues
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
